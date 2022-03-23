@@ -7,7 +7,7 @@ This App is for the temperature status, by using this App we can check the curre
 
 
 http://tempappbya.surge.sh
-## API Reference
+## API Reference 
 
 
 https://api.openweathermap.org/data/2.5/weather?q={city_name}&appid={API_key}
