@@ -1,6 +1,6 @@
 # Temperature-App
 
-This App is for the temperature status, by using this App we can check the current temperature at different part of globe.
+This App is for the temperature status, by using this App we can check the current temperature at different parts of  the globe.
 
 
 ## Here is the link for the App
